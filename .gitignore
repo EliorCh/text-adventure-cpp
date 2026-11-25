@@ -1,0 +1,8 @@
+build/
+game
+*.dSYM/
+.idea/
+.vscode/
+*.exe
+*.obj
+.DS_Store
