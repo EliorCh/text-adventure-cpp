@@ -2,7 +2,7 @@
 
 A two-player cooperative console adventure game written in **C++** — players move through rooms, collect keys, solve riddles, dodge bombs and use springs and teleporters to reach the final room together.
 
-Built as a course team project at the Academic College of Tel Aviv-Yaffo (MTA), by **Elior Chen** and **Ori Shitrit**.
+Built as the team project of the **Object Oriented Programming and C++** course at the Academic College of Tel Aviv-Yaffo (MTA), by **Elior Chen** and **Ori Shitrit** (course grade: 94).
 
 > Moved here from the original course repository, where we developed it together using branches and pull requests.
 
